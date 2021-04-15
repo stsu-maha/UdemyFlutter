@@ -1,6 +1,8 @@
 # chaptertwo
 
-A new Flutter project.
+A new Flutter project which consists of Chapter 2 course material from UDEMY.
+
+Udemy course link:- [Flutter Udemy Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 ## Getting Started
 
